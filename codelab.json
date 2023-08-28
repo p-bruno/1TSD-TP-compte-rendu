@@ -1,0 +1,18 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-08-28T15:25:27Z",
+  "id": "./Ressources/1TSD-codelab-compte-rendu",
+  "duration": 43,
+  "title": "Titre principal",
+  "summary": "",
+  "source": "1cd9mXipFg0rPmlRJv1OXdDZYgky0EwG7pwC7Wo69O5g",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "feedback": "Un lien vers lequel les utilisateurs peuvent signaler un bug",
+  "url": "./Ressources/1TSD-codelab-compte-rendu"
+}
